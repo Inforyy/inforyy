@@ -39,10 +39,3 @@ I’m passionate about creating reliable, efficient, and user-focused software. 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![Inforyy’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inforyy&show_icons=true&theme=radical&hide_border=true)
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inforyy&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Inforyy&theme=radical&hide_border=true) -->
-
